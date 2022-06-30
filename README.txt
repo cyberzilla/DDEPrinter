@@ -32,4 +32,4 @@ Limitation:
 For evaluation purposes, the server can only print 50 times, after the counter has been reached, the application must be activated to use it again.
 
 Contact Us:
-If you are interested in this application, you can contact us directly via Whatsapp or Telegram at +6285242703687
+If you are interested in this application, you can contact us directly via Whatsapp or Telegram at +6282350550603
